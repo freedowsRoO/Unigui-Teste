@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/25 23:44:23.000.318,=C:\Users\Familia Puntim\Desktop\DELPHI TEST\ServerModule.pas</Transaction>
+    <Transaction>2020/12/25 23:44:23.000.545,=C:\Users\Familia Puntim\Desktop\DELPHI TEST\Main.pas</Transaction>
+    <Transaction>2020/12/25 23:44:23.000.351,=C:\Users\Familia Puntim\Desktop\DELPHI TEST\MainModule.pas</Transaction>
+    <Transaction>2020/12/26 09:25:59.000.242,=C:\DELPHI TEST\Unit1.pas</Transaction>
+    <Transaction>2020/12/26 09:28:22.000.455,C:\DELPHI TEST\uCadCliente.pas=C:\DELPHI TEST\Unit1.pas</Transaction>
+    <Transaction>2020/12/26 09:28:42.000.239,C:\DELPHI TEST\uControllerDividas.pas=C:\DELPHI TEST\uCadCliente.pas</Transaction>
+    <Transaction>2020/12/26 16:49:08.000.113,=C:\DELPHI TEST\Unit1.pas</Transaction>
+    <Transaction>2020/12/26 16:51:42.000.095,C:\DELPHI TEST\Unit1.pas=C:\DELPHI TEST\uRequisicao.pas</Transaction>
+    <Transaction>2020/12/26 17:45:48.000.962,=C:\DELPHI TEST\Unit1.pas</Transaction>
+    <Transaction>2020/12/26 17:46:23.000.323,C:\DELPHI TEST\Unit1.pas=C:\DELPHI TEST\uControllerAPI.pas</Transaction>
+    <Transaction>2020/12/26 20:04:47.000.005,C:\DELPHI TEST\APItest.dproj=C:\DELPHI TEST\Project1.dproj</Transaction>
+    <Transaction>2020/12/27 09:42:27.000.994,=C:\DELPHI TEST\Unit1.pas</Transaction>
+    <Transaction>2020/12/27 09:42:46.000.603,C:\DELPHI TEST\Unit1.pas=C:\DELPHI TEST\uRequisiciaoDAO.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,16 @@
+[Config]
+Sessions=50
+Run=1
+MaxThreads=100
+DelayRuns=60
+SpeedIndex=0
+ParallelReqs=1
+[Urls]
+UrlIndex=0
+UrlCount=1
+0=http://127.0.0.1:8077
+[Records]
+recCount=3
+0=REC-ULKQFZ201227110924004.urc
+1=REC-JCSTRC201227111012299.urc
+2=REC-HYBVCW201227111034482.urc
